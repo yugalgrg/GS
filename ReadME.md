@@ -1,3 +1,3 @@
 # Demo
 
-Fronend design for a restaurant website.
+Fronend design for a restaurant website!
